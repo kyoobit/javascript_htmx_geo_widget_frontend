@@ -4,7 +4,7 @@ SHELL := /usr/bin/env bash
 
 APP = "$$(pwd)"
 BUN_VERSION = 1.1.29
-HTMX_VERSION = 2.0.2
+HTMX_VERSION = 2.0.3
 ALPINEJS_VERSION = 3.14.1
 
 install: ## Install the application requirements
