@@ -8,16 +8,16 @@
         "prod": "bun run --env-file=.env.production src/server.tsx"
     },
     "dependencies": {
-        "hono": "^4.6.3"
+        "hono": "^4.6.7"
     },
     "devDependencies": {
-        "@eslint/js": "^9.12.0",
-        "@playwright/test": "^1.47.2",
+        "@eslint/js": "^9.13.0",
+        "@playwright/test": "^1.48.2",
         "@types/bun": "latest",
-        "@types/node": "^22.7.4",
-        "eslint": "^9.12.0",
-        "globals": "^15.10.0",
+        "@types/node": "^22.8.1",
+        "eslint": "^9.13.0",
+        "globals": "^15.11.0",
         "prettier": "^3.3.3",
-        "typescript-eslint": "^8.8.0"
+        "typescript-eslint": "^8.11.0"
     }
 }
